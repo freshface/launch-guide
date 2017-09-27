@@ -6,7 +6,7 @@
 - Clear cache
 - Check website
 - ImageOptim
-- Pagespeed tests
+- PageSpeed Insights ([link](https://developers.google.com/speed/pagespeed/insights/))
 - SEO
 
   
@@ -33,7 +33,7 @@ Background image:
 
 Image:
 
-`<img src="" class="b-lazy"  src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="" data-src-small="this one is optional"> `
+`<img class="b-lazy"  src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="" data-src-small="this one is optional"> `
 
 
 ### Loading external css or javascript

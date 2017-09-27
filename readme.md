@@ -17,12 +17,12 @@
 
 ## FontAwesome
 
-Well... we only a couple of icons so loading in a selected set of icons would be better.  
+Well... we only need a couple of icons, so loading in a selected set of icons would be better instead of the whole library.
 To be continued...
 
 ### Minify javascript files
 
-Don't forget to minify (or re-minify after changes) the javascript files
+Don't forget to minify (or re-minify after changes) the javascript files.
 
 
 ### Lazy load images and background images

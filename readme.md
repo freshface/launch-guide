@@ -29,11 +29,13 @@ Don't forget to minify (or re-minify after changes) the javascript files.
 
 Background image:
 
-`<div class="b-lazy" data-src="" data-src-small="this one is optional"></div>`
+`<div class="b-lazy" data-src=""></div>`
 
 Image:
 
-`<img class="b-lazy"  src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="" data-src-small="this one is optional"> `
+`<img class="b-lazy"  src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src=""> `
+
+*You can also add `data-src-small=""` but it's optional*
 
 
 ### Loading external css or javascript

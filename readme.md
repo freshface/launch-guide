@@ -103,5 +103,5 @@ This removes the cookies from al the loaded assets for page speed gains.
 
 - Submit your website to the developpers tool
 - And add a sitemap
-- Run thru Google pagespeed
-- Add Google Analytics
+- Run thru PageSpeed Insights ([link](https://developers.google.com/speed/pagespeed/insights/))
+- Add Google Analytics ([link](https://analytics.google.com))

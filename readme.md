@@ -8,6 +8,8 @@
 - ImageOptim
 - PageSpeed Insights ([link](https://developers.google.com/speed/pagespeed/insights/))
 - SEO
+- Check e-mail addresses
+- Put details in Google Sheets
 
   
 

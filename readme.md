@@ -1,15 +1,18 @@
 # Quick launch checklist
 
+- Check with `$debug = false;` 
 - `$debug = false;`
 - Check url in `parameters.yml`
+- Check e-mail addresses and smtp mail settings
+- Check 404 page (and other lose pages)
 - SSL and http/2
 - Clear cache
 - Check website
 - ImageOptim
 - PageSpeed Insights ([link](https://developers.google.com/speed/pagespeed/insights/))
 - SEO
-- Check e-mail addresses
 - Put details in Google Sheets
+
 
   
 

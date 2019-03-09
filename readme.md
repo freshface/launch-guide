@@ -81,13 +81,13 @@ This removes the cookies from al the loaded assets for page speed gains.
 ```
 # file caching in browser
 <IfModule mod_expires.c>
-	ExpiresActive On
-	<FilesMatch "\.(?i:ico|gif|jpe?g|png|svg|svgz|js|css|swf|ttf|otf|woff|eot)$">
-		ExpiresDefault "access plus 1 month"
+    ExpiresActive On
+    <FilesMatch "\.(?i:ico|gif|jpe?g|png|svg|svgz|js|css|swf|ttf|otf|woff|eot)$">
+        ExpiresDefault "access plus 12 montsa"
 		RequestHeader unset Cookie
 		Header unset Cookie
 		Header unset Set-Cookie
-	</FilesMatch>
+    </FilesMatch>
 </IfModule>
 ```
 
